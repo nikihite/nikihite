@@ -37,14 +37,12 @@ I am a Full Stack Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </p>
 
-<p align="center">
-<a href="https://www.buymeacoffee.com/nikihite" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-</p>
-
-<p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikihite&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nikihite&theme=gruvbox_duo)](https://git.io/streak-stats)
+
+<p align="center">
+<a href="https://www.buymeacoffee.com/nikihite" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </p>
 <!--
 **nikihite/nikihite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
