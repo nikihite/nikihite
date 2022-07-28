@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/nikihite"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 <p align="center">
-<a href="https://www.buymeacoffee.com/zed0" target="_blank"><img src="[https://cdn.buymeacoffee.com/buttons/default-orange.png](https://www.buymeacoffee.com/nikihite)" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://www.buymeacoffee.com/nikihite" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </p>
 
 ### Hi there 👋
