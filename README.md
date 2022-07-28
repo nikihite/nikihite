@@ -6,7 +6,7 @@
 - 📫 How to reach me: nikihite@gmail.com
 - 🤍 My favorite foods are 🍣 sushi and 🌮 tacos!!
 
-I am a Full Stack Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Vancouver WA.
+I am a Full Stack Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Vancouver, WA.
 
 ### 🛠 &nbsp;Languages and Tools :
 
