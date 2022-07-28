@@ -41,6 +41,7 @@ I am a Full Stack Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 <a href="https://www.buymeacoffee.com/nikihite" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikihite&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **nikihite/nikihite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
