@@ -4,7 +4,7 @@
 - 👩🏼 Pronouns: She/Her
 - 🌱 I’m currently a student at Alchemy Code Lab
 - 📫 How to reach me: nikihite@gmail.com
-- ❤️ I love sushi!
+- 🤍 My favorite foods are 🍣 sushi and 🌮 tacos!!
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Vancouver WA.
 
