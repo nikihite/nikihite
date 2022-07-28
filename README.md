@@ -8,6 +8,14 @@
 
 I am a Full Stack Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Vancouver, WA.
 
+### 💻 Tech Stack
+* **Languages:** JavaScript, HTML/CSS, SQL
+* **Databases:** PostgreSQL, Supabase
+* **Tools:** Slack, GitHub, VScode, Heroku, Netlify, Postman, Beekeeper, Miro
+* **Testing Suites:** Jest, QUnit
+* **Dev Practices:** TDD, DDD Pair/Mob Programming
+****
+
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
