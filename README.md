@@ -1,6 +1,3 @@
-<img><iframe id="reddit-embed" src="https://www.redditmedia.com/r/ProgrammerHumor/comments/wa3r27/a_typical_backend_guy/?ref_source=embed&amp;ref=share&amp;embed=true" sandbox="allow-scripts allow-same-origin allow-popups" style="border: none;" height="621" width="640" scrolling="no"></iframe>
-</img>
-
 <p align="center">
 <a href="https://www.linkedin.com/in/nikihite"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 <a href="https://twitter.com/NikiMHite">
