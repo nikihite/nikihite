@@ -20,7 +20,7 @@ I am a Full Stack Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 ### 💻 Tech Stack
 * **Languages:** JavaScript, HTML/CSS, SQL
 * **Databases:** PostgreSQL, Supabase
-* **Tools:** Slack, GitHub, VScode, Heroku, Netlify, Postman, Beekeeper, Miro, Express
+* **Tools:** Slack, GitHub, VScode, Heroku, Netlify, Postman, Beekeeper, Miro, Express, Material UI, 
 * **Testing Suites:** Jest, QUnit
 * **Dev Practices:** TDD, DDD Pair/Mob Programming
 ****
