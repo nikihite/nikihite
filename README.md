@@ -12,7 +12,7 @@
 - 🍄 My Name is Niki
 - 👩🏼 Pronouns: She/Her
 - 🌱 I’m currently a student at Alchemy Code Lab
-- 📫 How to reach me: nikihite@gmail.com
+- 📫 How to reach me: nikihite3@gmail.com
 - 🤍 My favorite foods are 🍣 sushi and 🌮 tacos!!
 
 I am a Full Stack Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Vancouver, WA.
