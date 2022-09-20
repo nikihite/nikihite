@@ -1,28 +1,24 @@
 <p align="center">
-<a href="https://www.linkedin.com/in/nikihite"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-<a href="https://twitter.com/NikiMHite">
-<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-</a>
+<a href="https://www.linkedin.com/in/amayamaya"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/YPJ5gi3MZzSjhtQTIk/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/sEZKDIzRn4sefXmMyx/giphy.gif" width="100"/>
 </div>
 
-- 🍄 My Name is Niki
-- 👩🏼 Pronouns: She/Her
-- 🌱 I’m currently a student at Alchemy Code Lab
-- 📫 How to reach me: nikihite3@gmail.com
-- 🤍 My favorite foods are 🍣 sushi and 🌮 tacos!!
+- 🌻 My Name is Amaya
+- 🧚🏼‍♀️ Pronouns: She/They
+- 🌱 I’m currently coding with Alchemy Code Lab
+- 📫 How to reach me: aamaya547@gmail.com 
 
-I am a Full Stack Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Vancouver, WA.
+I am a Full Stack Engineer <img src="https://media.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" width="30"> from Portland, OR.
 
 ### 💻 Tech Stack
-* **Languages:** JavaScript, HTML/CSS, SQL
-* **Databases:** PostgreSQL, Supabase
-* **Tools:** Slack, GitHub, VScode, Heroku, Netlify, Postman, Beekeeper, Miro
-* **Testing Suites:** Jest, QUnit
-* **Dev Practices:** TDD, DDD Pair/Mob Programming
+* **Languages:** HTML, CSS, JavaScript, SQL
+* **Libraries:** Express, React, Node, MUI
+* **Databases:** Node, PostgreSQL, Supabase
+* **Tools:** GitHub, VSCode, Postman, Beekeeper, Netlify, Heroku, Slack, Miro
+* **Methodologies** AGILE, Pair / Mod Programming, Test / Behavior Driven Development
 ****
 
 <p align="center">
@@ -37,16 +33,10 @@ I am a Full Stack Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikihite&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amayamaya&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nikihite&theme=gruvbox_duo)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amayamaya&theme=gruvbox_duo)](https://git.io/streak-stats)
 
 <p align="center">
-<a href="https://www.buymeacoffee.com/nikihite" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://www.buymeacoffee.com/amayamaya" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </p>
-<!--
-**nikihite/nikihite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--->
