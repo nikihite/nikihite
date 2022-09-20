@@ -9,9 +9,21 @@
 - 📫 How to reach me: aamaya547@gmail.com 
 - 💻 I am a Full Stack Engineer from Portland, OR.
 
+
 <p align="center">
 <a href="https://www.linkedin.com/in/amayamaya"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
+
+I am a Full Stack Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Vancouver, WA.
+
+### 💻 Tech Stack
+* **Languages:** JavaScript, HTML/CSS, SQL
+* **Databases:** PostgreSQL, Supabase
+* **Tools:** Slack, GitHub, VScode, Heroku, Netlify, Postman, Beekeeper, Miro, Express, Material UI, 
+* **Testing Suites:** Jest, QUnit
+* **Dev Practices:** TDD, DDD Pair/Mob Programming
+****
+
 
 <p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
