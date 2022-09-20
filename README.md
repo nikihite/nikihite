@@ -1,17 +1,17 @@
-<p align="center">
-<a href="https://www.linkedin.com/in/amayamaya"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-</p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/sEZKDIzRn4sefXmMyx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/sEZKDIzRn4sefXmMyx/giphy.gif" width="200"/>
 </div>
 
 - 🌻 My Name is Amaya
 - 🧚🏼‍♀️ Pronouns: She/They
 - 🌱 I’m currently coding with Alchemy Code Lab
 - 📫 How to reach me: aamaya547@gmail.com 
+- 💻 I am a Full Stack Engineer from Portland, OR.
 
-I am a Full Stack Engineer <img src="https://media.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" width="30"> from Portland, OR.
+<p align="center">
+<a href="https://www.linkedin.com/in/amayamaya"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+</p>
 
 ### 💻 Tech Stack
 * **Languages:** HTML, CSS, JavaScript, SQL
