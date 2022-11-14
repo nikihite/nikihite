@@ -41,9 +41,6 @@ I am a Full Stack Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nikihite&theme=gruvbox_duo)](https://git.io/streak-stats)
 
-<p align="center">
-<a href="https://www.buymeacoffee.com/nikihite" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-</p>
 <!--
 **nikihite/nikihite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
